@@ -1,5 +1,5 @@
 - Hi, I’m @ThiagoChellios
-- I'm a null
+- I'm a noob
 - I’m interested in ... I don't know yet 
 - I’m currently learning HTML5 and CSS3 and Javascript
 - How to reach me ... Send me a e-mail 
